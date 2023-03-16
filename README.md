@@ -1,5 +1,7 @@
 ### Welcome!
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=git-bauerseb)](https://github.com/anuraghazra/github-readme-stats)
+
+Here you can find some projects I found interesting and worked on. Most of the stuff I've made is either on my local machine or on my server, so this is by far not everything.
+
 <!--
 **git-bauerseb/git-bauerseb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
